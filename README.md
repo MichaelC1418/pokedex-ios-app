@@ -1,5 +1,5 @@
 # final-project-MichaelC1418
-Michael Chavez z23616307 Original App Design Project - README
+Michael Chavez  Original App Design Project - README
 ===
 
 # Pokedex
